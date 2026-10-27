@@ -269,6 +269,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://griffinguard.io/" target="_blank">GriffinGuard</a>
+        </td>
+        <td>
+            GriffinGuard is a cybersecurity platform delivering real-time threat intelligence by continuously analyzing global internet traffic and exploitation patterns. It provides free data search, and some free IP blocklists.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
         </td> 
         <td>
@@ -305,6 +313,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             I-Blocklist maintains several types of lists containing IP addresses belonging to various categories. Some of these main categories include countries, ISPs and organizations. Other lists include web attacks, TOR, spyware and proxies. Many are free to use, and available in various formats.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://ipasis.com" target="_blank">IPASIS</a>
+        </td>
+        <td>
+            IPASIS is a real-time bot detection and fraud prevention API that combines IP intelligence, proxy/VPN/Tor detection, and email validation into a single API call. Each request returns an Interaction Trust Score (0-100) with sub-20ms response time. Free tier includes 1,000 requests/day. <a href="https://ipasis.com/docs" target="_blank">API documentation</a> and a <a href="https://ipasis.com/scan" target="_blank">live scanner</a> are available.
         </td>
     </tr>
     <tr>

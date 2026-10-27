@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:30:51.418267+00:00",
+  "upstream": "hslatman/awesome-threat-intelligence",
+  "upstream_branch": "main",
+  "upstream_commit": "e506c8415406d6d6ad16040c19c23ddb9ed654ac",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
